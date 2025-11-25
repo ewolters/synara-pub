@@ -1,5 +1,7 @@
 # Manifold Engineering: Constraint‑Induced Convergence for Reliable Human–AI System Design
 
+_Eric Wolters_ - Project Founder & Principle Systems Architect
+
 ## Abstract
 
 Large language models (LLMs) are increasingly used to co‑design complex socio‑technical systems, yet their tendency to hallucinate, contradict themselves, and ignore constraints limits deployment in safety‑ and mission‑critical contexts. Existing approaches to reliability—prompt engineering, post‑hoc guardrails, and traditional constraint‑satisfaction—are typically brittle: they treat constraints as hard walls in a largely flat solution space. This paper proposes an alternative view: **manifold engineering**. Instead of specifying a small set of hard rules, we define a dense field of *weak but coherent constraints* over the space of possible artifacts, turning system design into navigation of a shaped manifold.
